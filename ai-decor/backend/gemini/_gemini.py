@@ -35,8 +35,8 @@ import google.generativeai as genai
 # Load environment variables
 # ----------------------------
 load_dotenv()
-OPENAI_API_KEY = "REMOVED"
-GEMINI_API_KEY = "REMOVED"
+OPENAI_API_KEY = ""
+GEMINI_API_KEY = ""
 GROQ_TTS_KEY = os.getenv("GROQ_TTS_KEY")
 WHISPER_TTS_KEY = os.getenv("WHISPER_TTS_KEY")
 
