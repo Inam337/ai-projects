@@ -1,0 +1,3816 @@
+{
+  "show me female of banking": {
+    "query": "show me female of banking",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [
+        "fintech"
+      ],
+      "technologies": [],
+      "locations": [],
+      "companies": [
+        "show me female of"
+      ],
+      "company_types": [
+        "banks"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "show me female of banking",
+      "search_query": "fintech financial technology fintech solutions digital finance banks show me female of female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-07T12:51:18.192931",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find female heads of ai or machine learning in saudi banks.": {
+    "query": "Find female heads of AI or Machine Learning in Saudi banks.",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "director"
+      ],
+      "industries": [
+        "ai"
+      ],
+      "technologies": [
+        "ai",
+        "machine learning"
+      ],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [
+        "find female heads of ai or machine learning in saudi"
+      ],
+      "company_types": [
+        "banks"
+      ],
+      "gender": "female",
+      "seniority_levels": [
+        "director"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Find female heads of AI or Machine Learning in Saudi banks.",
+      "search_query": "director ai machine learning head lead senior manager artificial intelligence deep learning ml neural networks banks ksa find female heads of ai or machine learning in saudi female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 8,
+    "last_used": "2025-11-07T12:53:04.288267",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "female in saudi banks.": {
+    "query": "female in Saudi banks.",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [
+        "female in saudi"
+      ],
+      "company_types": [
+        "banks"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "female in Saudi banks.",
+      "search_query": "banks ksa female in saudi female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-07T12:51:55.796830",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me women leaders in tech": {
+    "query": "Show me women leaders in tech",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "lead"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [
+        "tech"
+      ],
+      "gender": "female",
+      "seniority_levels": [
+        "leader"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me women leaders in tech",
+      "search_query": "lead tech female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 20,
+    "last_used": "2025-11-07T14:19:48.367096",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find female executives in ai": {
+    "query": "Find female executives in AI",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "executive"
+      ],
+      "industries": [
+        "ai"
+      ],
+      "technologies": [
+        "ai"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [
+        "executive"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Find female executives in AI",
+      "search_query": "executive ai artificial intelligence machine learning deep learning ml neural networks female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 3,
+    "last_used": "2025-11-07T14:20:30.475584",
+    "result_count": 5,
+    "avg_relevance_score": 60.394000000000005
+  },
+  "women in devops": {
+    "query": "Women in DevOps",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [
+        "devops"
+      ],
+      "technologies": [
+        "devops"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Women in DevOps",
+      "search_query": "devops female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:16:12.392729",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "felmale in devops": {
+    "query": "felmale in DevOps",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [
+        "devops"
+      ],
+      "technologies": [
+        "devops"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "felmale in DevOps",
+      "search_query": "devops"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-07T14:16:43.166874",
+    "result_count": 5,
+    "avg_relevance_score": 66.99
+  },
+  "female in devops": {
+    "query": "female in DevOps",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [
+        "devops"
+      ],
+      "technologies": [
+        "devops"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "female in DevOps",
+      "search_query": "devops female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-07T14:16:48.981336",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "top 5 female in devops": {
+    "query": "top 5 female in DevOps",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [
+        "devops"
+      ],
+      "technologies": [
+        "devops"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "top 5 female in DevOps",
+      "search_query": "devops female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 3,
+    "last_used": "2025-11-07T14:16:57.173225",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "top 5 female in software": {
+    "query": "top 5 female in software",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [
+        "female in"
+      ],
+      "company_types": [
+        "tech"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "top 5 female in software",
+      "search_query": "tech female in female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-07T14:17:03.748597",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me women in tech": {
+    "query": "Show me women in tech",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [
+        "tech"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me women in tech",
+      "search_query": "tech female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 3,
+    "last_used": "2025-11-07T14:18:44.132865",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find women executives in ai": {
+    "query": "Find women executives in AI",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "executive"
+      ],
+      "industries": [
+        "ai"
+      ],
+      "technologies": [
+        "ai"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [
+        "executive"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Find women executives in AI",
+      "search_query": "executive ai artificial intelligence machine learning deep learning ml neural networks female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:20:45.176014",
+    "result_count": 5,
+    "avg_relevance_score": 60.394000000000005
+  },
+  "find women executives in software": {
+    "query": "Find women executives in software",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "executive"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [
+        "find women executives in"
+      ],
+      "company_types": [
+        "tech"
+      ],
+      "gender": "female",
+      "seniority_levels": [
+        "executive"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Find women executives in software",
+      "search_query": "executive tech find women executives in female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 6,
+    "last_used": "2025-11-07T14:21:05.220514",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find women in software": {
+    "query": "Find women in software",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [
+        "find women in"
+      ],
+      "company_types": [
+        "tech"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Find women in software",
+      "search_query": "tech find women in female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:21:08.003011",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find women in it": {
+    "query": "Find women in it",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [
+        "tech"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Find women in it",
+      "search_query": "tech female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:22:20.246806",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "female ceo": {
+    "query": "female ceo",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "female ceo",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-07T14:25:47.456554",
+    "result_count": 2,
+    "avg_relevance_score": 61.864999999999995
+  },
+  "female designer": {
+    "query": "female designer",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "female designer",
+      "search_query": "female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:26:08.807567",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "female solutions": {
+    "query": "female solutions",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [
+        "solutions"
+      ],
+      "original_query": "female solutions",
+      "search_query": "solutions female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:26:17.832299",
+    "result_count": 5,
+    "avg_relevance_score": 52.668000000000006
+  },
+  "if arbisoft is attending leap conference, list saudi edtech or tourism tech companies they should connect with.": {
+    "query": "If Arbisoft is attending LEAP Conference, list Saudi edtech or tourism tech companies they should connect with.",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [
+        "analytics",
+        "education",
+        "tourism"
+      ],
+      "technologies": [
+        "bi"
+      ],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [
+        "tech"
+      ],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": "visiting saudi arabia",
+      "target_sector": "edtech tourism",
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "If Arbisoft is attending LEAP Conference, list Saudi edtech or tourism tech companies they should connect with.",
+      "search_query": "analytics education tourism bi tech ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 6,
+    "last_used": "2025-11-07T14:28:45.257273",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "microsoft": {
+    "query": "microsoft",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "microsoft",
+      "search_query": ""
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-07T14:55:46.452453",
+    "result_count": 5,
+    "avg_relevance_score": 34.089999999999996
+  },
+  "top 5 women ceo in pakistan": {
+    "query": "top 5 women ceo in pakistan",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "pakistan"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "top 5 women ceo in pakistan",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer pakistan female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:33:54.547512",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "top 5 women ceo in soudia ariabia": {
+    "query": "top 5 women ceo in soudia ariabia",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "bi"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "top 5 women ceo in soudia ariabia",
+      "search_query": "ceo ceo executive analytics bi chief executive executive leader chief executive officer female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:34:13.098312",
+    "result_count": 2,
+    "avg_relevance_score": 63.45
+  },
+  "top 5 female qa in riyadh": {
+    "query": "top 5 female QA in Riyadh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "top 5 female QA in Riyadh",
+      "search_query": "riyadh female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:35:17.258008",
+    "result_count": 5,
+    "avg_relevance_score": 51.324
+  },
+  "top 5 recruitment marketing female in riyadh": {
+    "query": "top 5 recruitment marketing female in Riyadh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [
+        "tech"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "top 5 recruitment marketing female in Riyadh",
+      "search_query": "tech riyadh female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:38:44.862480",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "recruitment marketing female in riyadh": {
+    "query": "recruitment marketing female in Riyadh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [
+        "tech"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "recruitment marketing female in Riyadh",
+      "search_query": "tech riyadh female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:38:54.446071",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "recruitment marketing": {
+    "query": "recruitment marketing",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [
+        "tech"
+      ],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "recruitment marketing",
+      "search_query": "tech"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-07T14:38:59.511227",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "senior mechanical engineer": {
+    "query": "Senior Mechanical Engineer",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Senior Mechanical Engineer",
+      "search_query": ""
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:39:14.852628",
+    "result_count": 5,
+    "avg_relevance_score": 28.446000000000005
+  },
+  "show me the female of banking": {
+    "query": "show me the female of banking",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [
+        "fintech"
+      ],
+      "technologies": [],
+      "locations": [],
+      "companies": [
+        "show me the female of"
+      ],
+      "company_types": [
+        "banks"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "show me the female of banking",
+      "search_query": "fintech financial technology fintech solutions digital finance banks show me the female of female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:51:36.850667",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me the female of banks": {
+    "query": "show me the female of banks",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [
+        "show me the female of"
+      ],
+      "company_types": [
+        "banks"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "show me the female of banks",
+      "search_query": "banks show me the female of female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:51:50.182779",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "female of banks": {
+    "query": "female of banks",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [
+        "female of"
+      ],
+      "company_types": [
+        "banks"
+      ],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "female of banks",
+      "search_query": "banks female of female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T14:51:55.743924",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "banking": {
+    "query": "banking",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [
+        "fintech"
+      ],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [
+        "banks"
+      ],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "banking",
+      "search_query": "fintech financial technology fintech solutions digital finance banks"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-07T14:52:15.392459",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "senior commercial manager": {
+    "query": "Senior Commercial Manager",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "manager"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [
+        "manager"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Senior Commercial Manager",
+      "search_query": "manager lead supervisor coordinator"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T15:21:43.550445",
+    "result_count": 4,
+    "avg_relevance_score": 54.89
+  },
+  "top 5 female executive in saudi arabia": {
+    "query": "top 5 female executive in saudi Arabia",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "executive"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "bi"
+      ],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [
+        "executive"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "top 5 female executive in saudi Arabia",
+      "search_query": "executive analytics bi ksa female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-07T16:53:02.250342",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "top ceo in soudi arabia": {
+    "query": "top ceo in soudi arabia",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "bi"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "top ceo in soudi arabia",
+      "search_query": "ceo ceo executive analytics bi chief executive executive leader chief executive officer"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T16:55:45.922561",
+    "result_count": 2,
+    "avg_relevance_score": 64.58500000000001
+  },
+  "find top 5 devops male": {
+    "query": "find top 5 devops male",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [
+        "devops"
+      ],
+      "technologies": [
+        "devops"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "male",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "find top 5 devops male",
+      "search_query": "devops male"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T17:47:15.451900",
+    "result_count": 5,
+    "avg_relevance_score": 66.99
+  },
+  "top 5 female ceo": {
+    "query": "top 5 female ceo",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "top 5 female ceo",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T17:47:43.853453",
+    "result_count": 2,
+    "avg_relevance_score": 61.864999999999995
+  },
+  "top 5 female executive": {
+    "query": "top 5 female executive",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "executive"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [
+        "executive"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "top 5 female executive",
+      "search_query": "executive female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T17:47:52.557794",
+    "result_count": 5,
+    "avg_relevance_score": 67.902
+  },
+  "engineer": {
+    "query": "engineer",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "engineer",
+      "search_query": ""
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:04:38.739880",
+    "result_count": 5,
+    "avg_relevance_score": 38.39
+  },
+  "front end developer": {
+    "query": "front end developer",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "front end developer",
+      "search_query": ""
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:09:23.850163",
+    "result_count": 5,
+    "avg_relevance_score": 38.768
+  },
+  "list chief data officers in ksa working in retail or ecommerce.": {
+    "query": "List Chief Data Officers in KSA working in retail or ecommerce.",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "cdo"
+      ],
+      "industries": [
+        "ai",
+        "retail"
+      ],
+      "technologies": [
+        "ai"
+      ],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [
+        "retail"
+      ],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "List Chief Data Officers in KSA working in retail or ecommerce.",
+      "search_query": "cdo ai retail artificial intelligence machine learning deep learning ml neural networks ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:11:35.979957",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "list chief data officers in ksa": {
+    "query": "List Chief Data Officers in KSA",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "cdo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "List Chief Data Officers in KSA",
+      "search_query": "cdo ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:11:42.062560",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "chief data officers in ksa": {
+    "query": "Chief Data Officers in KSA",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "cdo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Chief Data Officers in KSA",
+      "search_query": "cdo ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 3,
+    "last_used": "2025-11-07T18:11:50.661938",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me data analytics leaders in riyadh working at government organizations.": {
+    "query": "Show me data analytics leaders in Riyadh working at government organizations.",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "lead"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "data analytics"
+      ],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [
+        "government"
+      ],
+      "gender": null,
+      "seniority_levels": [
+        "leader"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me data analytics leaders in Riyadh working at government organizations.",
+      "search_query": "lead analytics data analytics government riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 10,
+    "last_used": "2025-11-07T18:19:04.931190",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me data analytics leaders": {
+    "query": "Show me data analytics leaders",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "lead"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "data analytics"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [
+        "leader"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me data analytics leaders",
+      "search_query": "lead analytics data analytics"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T09:53:17.234209",
+    "result_count": 4,
+    "avg_relevance_score": 66.1725
+  },
+  "show me data analytics leaders in riyadh at government organizations.": {
+    "query": "Show me data analytics leaders in Riyadh at government organizations.",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "lead"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "data analytics"
+      ],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [
+        "government"
+      ],
+      "gender": null,
+      "seniority_levels": [
+        "leader"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me data analytics leaders in Riyadh at government organizations.",
+      "search_query": "lead analytics data analytics government riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:19:32.606771",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me data analytics leaders in riyadh": {
+    "query": "Show me data analytics leaders in Riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "lead"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "data analytics"
+      ],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [
+        "leader"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me data analytics leaders in Riyadh",
+      "search_query": "lead analytics data analytics riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-07T18:24:55.955447",
+    "result_count": 2,
+    "avg_relevance_score": 65.845
+  },
+  "show me data analytics leaders in ksa": {
+    "query": "Show me data analytics leaders in ksa",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "lead"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "data analytics"
+      ],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [
+        "leader"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me data analytics leaders in ksa",
+      "search_query": "lead analytics data analytics ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:19:52.944001",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me ceo in ksa": {
+    "query": "Show me ceo in ksa",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me ceo in ksa",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 9,
+    "last_used": "2025-11-08T09:51:59.145002",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "list  ceo in ksa": {
+    "query": "list  ceo in ksa",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "list  ceo in ksa",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-07T18:20:11.037487",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "list ceo in ksa": {
+    "query": "list ceo in ksa",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "list ceo in ksa",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 9,
+    "last_used": "2025-11-07T18:24:47.582229",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me data analytics leaders in riyadh working at government organizations": {
+    "query": "Show me data analytics leaders in Riyadh working at government organizations",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "lead"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "data analytics"
+      ],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [
+        "government"
+      ],
+      "gender": null,
+      "seniority_levels": [
+        "leader"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me data analytics leaders in Riyadh working at government organizations",
+      "search_query": "lead analytics data analytics government riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 8,
+    "last_used": "2025-11-07T18:24:50.409385",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me director in riyadh": {
+    "query": "Show me director in Riyadh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "cto",
+        "director"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [
+        "director"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me director in Riyadh",
+      "search_query": "cto director cto executive chief technology technology leader tech executive head lead senior manager riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:25:10.383272",
+    "result_count": 5,
+    "avg_relevance_score": 61.012000000000015
+  },
+  "show me executive in riyadh": {
+    "query": "Show me executive in Riyadh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "executive"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [
+        "executive"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me executive in Riyadh",
+      "search_query": "executive riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 5,
+    "last_used": "2025-11-11T15:35:09.852865",
+    "result_count": 2,
+    "avg_relevance_score": 70.12
+  },
+  "show me developer  in riyadh": {
+    "query": "Show me developer  in Riyadh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me developer  in Riyadh",
+      "search_query": "riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:25:27.516650",
+    "result_count": 5,
+    "avg_relevance_score": 57.84599999999999
+  },
+  "show me developer in riyadh": {
+    "query": "Show me developer in Riyadh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me developer in Riyadh",
+      "search_query": "riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:25:36.103924",
+    "result_count": 5,
+    "avg_relevance_score": 57.84599999999999
+  },
+  "ksa": {
+    "query": "ksa",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "ksa",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-07T18:35:38.993651",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "list of all developer in ksa": {
+    "query": "list of all developer in ksa",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "list of all developer in ksa",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-08T09:47:36.818919",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find developer in ksa": {
+    "query": "find developer in ksa",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "find developer in ksa",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-07T18:35:35.994704",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me devops": {
+    "query": "show me devops",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [
+        "devops"
+      ],
+      "technologies": [
+        "devops"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "show me devops",
+      "search_query": "devops"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:35:55.667065",
+    "result_count": 5,
+    "avg_relevance_score": 66.99
+  },
+  "find me ceo in ksa": {
+    "query": "find me ceo in ksa",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "find me ceo in ksa",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:36:06.824307",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find ceo in ksa": {
+    "query": "find ceo in ksa",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "find ceo in ksa",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 11,
+    "last_used": "2025-11-08T09:52:25.245437",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "ceo in ksa": {
+    "query": "ceo in ksa",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "ceo in ksa",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:36:13.575603",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "ceo": {
+    "query": "ceo",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "ceo",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-07T18:39:46.851242",
+    "result_count": 2,
+    "avg_relevance_score": 67.58500000000001
+  },
+  "find ceo in riayah": {
+    "query": "find ceo in riayah",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "find ceo in riayah",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:46:59.388871",
+    "result_count": 2,
+    "avg_relevance_score": 67.58500000000001
+  },
+  "find ceo in jeddah": {
+    "query": "find ceo in jeddah",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "jeddah"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "find ceo in jeddah",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer jeddah"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:47:32.021434",
+    "result_count": 2,
+    "avg_relevance_score": 65.5
+  },
+  "find ceo in makkah": {
+    "query": "find ceo in Makkah",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "find ceo in Makkah",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:47:43.437809",
+    "result_count": 2,
+    "avg_relevance_score": 67.58500000000001
+  },
+  "find ceo in riyadh": {
+    "query": "find ceo in Riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "find ceo in Riyadh",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T10:01:37.050028",
+    "result_count": 5,
+    "avg_relevance_score": 59.04600000000001
+  },
+  "show me ceo in riyadh": {
+    "query": "show me ceo in Riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "show me ceo in Riyadh",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:48:03.827960",
+    "result_count": 5,
+    "avg_relevance_score": 59.04600000000001
+  },
+  "list of ceo in riyadh": {
+    "query": "list of ceo in Riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "list of ceo in Riyadh",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:48:15.633360",
+    "result_count": 5,
+    "avg_relevance_score": 59.04600000000001
+  },
+  "list of design in riyadh": {
+    "query": "list of design in Riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "list of design in Riyadh",
+      "search_query": "riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-07T18:48:28.189503",
+    "result_count": 5,
+    "avg_relevance_score": 57.84599999999999
+  },
+  "list ofdeveloper in ksa": {
+    "query": "list ofdeveloper in ksa",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "list ofdeveloper in ksa",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T09:47:46.668326",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "list of developer in ksa": {
+    "query": "list of developer in KSA",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "list of developer in KSA",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T09:47:52.225433",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "list of ceo in ksa": {
+    "query": "list of ceo in KSA",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "list of ceo in KSA",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 3,
+    "last_used": "2025-11-08T09:48:11.181573",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me ceo": {
+    "query": "Show me ceo",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me ceo",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T10:00:29.792389",
+    "result_count": 2,
+    "avg_relevance_score": 67.58500000000001
+  },
+  "show me ksa ceo": {
+    "query": "Show me ksa ceo",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me ksa ceo",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T09:53:41.673533",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me design in rayiah": {
+    "query": "Show me design in rayiah",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me design in rayiah",
+      "search_query": ""
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T09:53:59.386731",
+    "result_count": 5,
+    "avg_relevance_score": 40.568
+  },
+  "show me designer in rayiah": {
+    "query": "Show me designer in rayiah",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Show me designer in rayiah",
+      "search_query": ""
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T09:54:47.235898",
+    "result_count": 5,
+    "avg_relevance_score": 40.589999999999996
+  },
+  "who are the iot or smart city directors at neom and the red sea global?": {
+    "query": "Who are the IoT or smart city directors at NEOM and The Red Sea Global?",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "cto",
+        "director"
+      ],
+      "industries": [
+        "iot"
+      ],
+      "technologies": [
+        "iot",
+        "smart city"
+      ],
+      "locations": [],
+      "companies": [
+        "red sea global",
+        "strategic systems international",
+        "neom"
+      ],
+      "company_types": [
+        "tech"
+      ],
+      "gender": null,
+      "seniority_levels": [
+        "director"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": "iot",
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Who are the IoT or smart city directors at NEOM and The Red Sea Global?",
+      "search_query": "cto director cto executive iot smart city chief technology technology leader tech executive head lead senior manager internet of things smart devices connected devices industry 4.0"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 5,
+    "last_used": "2025-11-08T09:56:46.079729",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "neom and the red sea global": {
+    "query": "NEOM and The Red Sea Global",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [
+        "red sea global",
+        "neom"
+      ],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "NEOM and The Red Sea Global",
+      "search_query": "red sea global neom"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T09:56:50.574416",
+    "result_count": 4,
+    "avg_relevance_score": 54.2025
+  },
+  "find product managers in healthtech": {
+    "query": "Find product managers in healthtech",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "manager"
+      ],
+      "industries": [
+        "healthcare"
+      ],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [
+        "tech"
+      ],
+      "gender": null,
+      "seniority_levels": [
+        "manager"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "Find product managers in healthtech",
+      "search_query": "manager healthcare lead supervisor coordinator health tech medical technology digital health tech"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 3,
+    "last_used": "2025-11-08T09:58:14.631302",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me result": {
+    "query": "show me result",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "show me result",
+      "search_query": ""
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T10:00:23.561361",
+    "result_count": 1,
+    "avg_relevance_score": 46.39
+  },
+  "find ceo in saudi arabia": {
+    "query": "find ceo in Saudi Arabia",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "bi"
+      ],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "find ceo in Saudi Arabia",
+      "search_query": "ceo ceo executive analytics bi chief executive executive leader chief executive officer ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 9,
+    "last_used": "2025-11-08T10:08:50.637410",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "ceo in saudi arabia": {
+    "query": "ceo in saudi arabia",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [
+        "analytics"
+      ],
+      "technologies": [
+        "bi"
+      ],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "original_query": "ceo in saudi arabia",
+      "search_query": "ceo ceo executive analytics bi chief executive executive leader chief executive officer ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T10:01:59.492754",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find technology heads in logistics startups": {
+    "query": "Find technology heads in logistics startups",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [
+        "startups",
+        "tech",
+        "logistics"
+      ],
+      "gender": null,
+      "seniority_levels": [
+        "director"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": "gis smart city",
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "Find technology heads in logistics startups",
+      "search_query": "startups tech logistics"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:09:21.662667",
+    "result_count": 4,
+    "avg_relevance_score": 51.905
+  },
+  "“find people in utilities or energy companies": {
+    "query": "“Find people in utilities or energy companies",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [
+        "energy"
+      ],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [
+        "energy",
+        "tech"
+      ],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "“Find people in utilities or energy companies",
+      "search_query": "energy tech"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T10:15:42.589185",
+    "result_count": 4,
+    "avg_relevance_score": 71.265
+  },
+  "find ceo startup in riyadh": {
+    "query": "find ceo startup in riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [
+        "startups"
+      ],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "find ceo startup in riyadh",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer startups riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:16:14.050591",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find ceo startups in riyadh": {
+    "query": "find ceo startups in riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [
+        "startups"
+      ],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "find ceo startups in riyadh",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer startups riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:16:19.833370",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find  startups ceo": {
+    "query": "find  startups ceo",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [
+        "startups"
+      ],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "find  startups ceo",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer startups"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:16:30.055279",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me founders of ecommerce": {
+    "query": "Show me founders of ecommerce",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [
+        "retail"
+      ],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "Show me founders of ecommerce",
+      "search_query": "retail"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:18:39.779668",
+    "result_count": 5,
+    "avg_relevance_score": 87.424
+  },
+  "show me ceo of ecommerce": {
+    "query": "Show me ceo of ecommerce",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": "ecommerce gateway pakistan (pvt.) ltd.",
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "Show me ceo of ecommerce",
+      "search_query": "ceo ceo executive retail chief executive executive leader chief executive officer"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:18:55.589505",
+    "result_count": 2,
+    "avg_relevance_score": 65.63
+  },
+  "show me devops in riyadh": {
+    "query": "Show me devops in riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [
+        "devops"
+      ],
+      "technologies": [
+        "devops"
+      ],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "Show me devops in riyadh",
+      "search_query": "devops riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:19:26.474236",
+    "result_count": 5,
+    "avg_relevance_score": 57.867999999999995
+  },
+  "show me startups in riyadh": {
+    "query": "Show me startups in riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [
+        "startups"
+      ],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "Show me startups in riyadh",
+      "search_query": "startups riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:19:38.111209",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "show me startups executive in riyadh": {
+    "query": "Show me startups executive in riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "executive"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [
+        "startups"
+      ],
+      "gender": null,
+      "seniority_levels": [
+        "executive"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "Show me startups executive in riyadh",
+      "search_query": "executive startups riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 5,
+    "last_used": "2025-11-08T10:30:45.580458",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find founders of ksa": {
+    "query": "find founders of ksa",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "find founders of ksa",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:31:10.584708",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find founders in riyadh": {
+    "query": "find founders in riyadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "find founders in riyadh",
+      "search_query": "riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:31:40.320951",
+    "result_count": 5,
+    "avg_relevance_score": 57.84599999999999
+  },
+  "find pakistan ceo": {
+    "query": "find pakistan ceo",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "pakistan"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "find pakistan ceo",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer pakistan"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T10:40:12.822363",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find pakistani": {
+    "query": "find pakistani",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "pakistan"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "find pakistani",
+      "search_query": "pakistan"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:40:17.363684",
+    "result_count": 5,
+    "avg_relevance_score": 62.367999999999995
+  },
+  "send me ceo in riyadh": {
+    "query": "send me ceo in riyadh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send me ceo in riyadh",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:51:49.875376",
+    "result_count": 5,
+    "avg_relevance_score": 59.04600000000001
+  },
+  "send me ceo in riaydh": {
+    "query": "send me ceo in riaydh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send me ceo in riaydh",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T10:54:44.522419",
+    "result_count": 2,
+    "avg_relevance_score": 67.58500000000001
+  },
+  "send me founders in ksa": {
+    "query": "send me founders in ksa",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send me founders in ksa",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 9,
+    "last_used": "2025-11-08T12:05:56.462708",
+    "result_count": 5,
+    "avg_relevance_score": 73.39
+  },
+  "send me founders in riyadh": {
+    "query": "send me founders in riyadh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send me founders in riyadh",
+      "search_query": "riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T11:00:36.336371",
+    "result_count": 5,
+    "avg_relevance_score": 57.84599999999999
+  },
+  "when 10pearls visits ksa": {
+    "query": "When 10Pearls visits KSA",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": "visiting saudi arabia",
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "When 10Pearls visits KSA",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-08T12:48:56.238717",
+    "result_count": 5,
+    "avg_relevance_score": 73.39
+  },
+  "send me founders in ksa $10m": {
+    "query": "send me founders in ksa $10M",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send me founders in ksa $10M",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 9,
+    "last_used": "2025-11-08T12:41:36.379292",
+    "result_count": 5,
+    "avg_relevance_score": 73.39
+  },
+  "send me network in ksa": {
+    "query": "send me network in ksa",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send me network in ksa",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-08T13:18:21.716366",
+    "result_count": 5,
+    "avg_relevance_score": 73.39
+  },
+  "send me founder in ksa": {
+    "query": "send me founder in ksa",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "founder"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send me founder in ksa",
+      "search_query": "founder ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T12:38:02.736301",
+    "result_count": 5,
+    "avg_relevance_score": 64.89
+  },
+  "send": {
+    "query": "send",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send",
+      "search_query": ""
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T12:41:03.522182",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "find me ksa developer": {
+    "query": "find me ksa developer",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "find me ksa developer",
+      "search_query": "ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 4,
+    "last_used": "2025-11-08T12:49:31.669677",
+    "result_count": 5,
+    "avg_relevance_score": 73.39
+  },
+  "find female market manager in ksa": {
+    "query": "find female market manager in ksa",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [
+        "manager"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [
+        "manager"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "find female market manager in ksa",
+      "search_query": "manager lead supervisor coordinator ksa female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T12:45:40.474745",
+    "result_count": 5,
+    "avg_relevance_score": 75.73400000000001
+  },
+  "find me male ksa executives": {
+    "query": "find me male ksa executives",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": "male",
+      "seniority_levels": [
+        "executive"
+      ],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "find me male ksa executives",
+      "search_query": "ksa male"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T12:49:46.117485",
+    "result_count": 5,
+    "avg_relevance_score": 77.32
+  },
+  "when 10pearls visits ksa, which companies working in ecommerce or mobility could be ideal partnership targets?": {
+    "query": "When 10Pearls visits KSA, which companies working in ecommerce or mobility could be ideal partnership targets?",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [
+        "retail",
+        "analytics"
+      ],
+      "technologies": [
+        "bi"
+      ],
+      "locations": [
+        "ksa"
+      ],
+      "companies": [],
+      "company_types": [
+        "tech"
+      ],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": "visiting saudi arabia",
+      "target_sector": "ecommerce mobility",
+      "premium_only": false,
+      "keywords": [
+        "partnership"
+      ],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "When 10Pearls visits KSA, which companies working in ecommerce or mobility could be ideal partnership targets?",
+      "search_query": "retail analytics bi partnership tech ksa"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-08T12:51:03.009223",
+    "result_count": 1,
+    "avg_relevance_score": 68.72
+  },
+  "when dpl’s ai and iot division leads visit jeddah, find relevant energy, construction, or manufacturing leaders to meet for partnerships.": {
+    "query": "When DPL’s AI and IoT division leads visit Jeddah, find relevant energy, construction, or manufacturing leaders to meet for partnerships.",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [
+        "ai",
+        "iot",
+        "energy",
+        "construction"
+      ],
+      "technologies": [
+        "ai",
+        "iot"
+      ],
+      "locations": [
+        "jeddah"
+      ],
+      "companies": [],
+      "company_types": [
+        "energy",
+        "construction"
+      ],
+      "gender": null,
+      "seniority_levels": [
+        "leader"
+      ],
+      "pakistani_company": null,
+      "visit_context": "visiting jeddah",
+      "target_sector": "iot",
+      "premium_only": false,
+      "keywords": [
+        "partnership"
+      ],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "When DPL’s AI and IoT division leads visit Jeddah, find relevant energy, construction, or manufacturing leaders to meet for partnerships.",
+      "search_query": "ai iot energy construction artificial intelligence machine learning deep learning ml internet of things smart devices connected devices neural networks smart city industry 4.0 industrial iot"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T12:51:40.389339",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "cto in riyadh": {
+    "query": "CTO in Riyadh",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "cto"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "CTO in Riyadh",
+      "search_query": "cto cto executive chief technology technology leader tech executive riyadh"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-08T13:23:45.112031",
+    "result_count": 5,
+    "avg_relevance_score": 64.19
+  },
+  "send me female data analyst": {
+    "query": "send me female data analyst",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send me female data analyst",
+      "search_query": "female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-11T14:54:05.102725",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  },
+  "send me female ceo": {
+    "query": "send me female ceo",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "female",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send me female ceo",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer female"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-11T14:54:19.500845",
+    "result_count": 2,
+    "avg_relevance_score": 71.41499999999999
+  },
+  "send me male ceo": {
+    "query": "send me male ceo",
+    "parsed_query": {
+      "objective": "objective1",
+      "query_type": "people_search",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": "male",
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "send me male ceo",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer male"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-11T14:55:16.634590",
+    "result_count": 5,
+    "avg_relevance_score": 78.38399999999999
+  },
+  "show me ai developer in riayadh": {
+    "query": "show me ai developer in riayadh",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [
+        "ai"
+      ],
+      "technologies": [
+        "ai"
+      ],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "show me ai developer in riayadh",
+      "search_query": "ai artificial intelligence machine learning deep learning ml neural networks"
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 2,
+    "last_used": "2025-11-11T14:59:42.790307",
+    "result_count": 5,
+    "avg_relevance_score": 49.66799999999999
+  },
+  "show me front end developer in madina": {
+    "query": "show me front end developer in madina",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_discovery",
+      "job_titles": [],
+      "industries": [],
+      "technologies": [],
+      "locations": [],
+      "companies": [],
+      "company_types": [],
+      "gender": null,
+      "seniority_levels": [],
+      "pakistani_company": null,
+      "visit_context": null,
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "show me front end developer in madina",
+      "search_query": ""
+    },
+    "timestamp": "2025-11-11T15:28:54.968646",
+    "count": 1,
+    "last_used": "2025-11-11T15:00:35.047553",
+    "result_count": 5,
+    "avg_relevance_score": 38.768
+  },
+  "dpl's ceo is visiting riyadh, which executives should he meet?": {
+    "query": "DPL's CEO is visiting Riyadh, which executives should he meet?",
+    "parsed_query": {
+      "objective": "objective2",
+      "query_type": "company_match",
+      "job_titles": [
+        "ceo"
+      ],
+      "industries": [],
+      "technologies": [],
+      "locations": [
+        "riyadh"
+      ],
+      "companies": [],
+      "company_types": [],
+      "gender": "male",
+      "seniority_levels": [
+        "executive"
+      ],
+      "pakistani_company": "dpl (pvt.) ltd.",
+      "visit_context": "visiting riyadh",
+      "target_sector": null,
+      "premium_only": false,
+      "keywords": [],
+      "revenue_range": null,
+      "has_funding": null,
+      "recently_raised_funding": false,
+      "original_query": "DPL's CEO is visiting Riyadh, which executives should he meet?",
+      "search_query": "ceo ceo executive chief executive executive leader chief executive officer riyadh male"
+    },
+    "timestamp": "2025-11-11T15:29:00.848131",
+    "count": 2,
+    "last_used": "2025-11-11T15:29:50.715876",
+    "result_count": 0,
+    "avg_relevance_score": 0.0
+  }
+}

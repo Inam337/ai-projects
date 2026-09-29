@@ -1,0 +1,28 @@
+{
+  "default_model": "gpt-4o-mini",
+  "batch_size": 12,
+  "max_retries": 4,
+  "timeout_seconds": 30.0,
+  "enable_token_tracking": false,
+  "enable_circuit_breaker": true,
+  "circuit_breaker_threshold": 5,
+  "circuit_breaker_timeout": 60,
+  "auto_categorize": true,
+  "fallback_to_rules": true,
+  "custom_categories": [
+    "Fuel",
+    "Health/Pharmacy",
+    "Groceries",
+    "Dining",
+    "Transport",
+    "Utilities",
+    "Entertainment",
+    "Shopping",
+    "Education",
+    "Travel",
+    "Insurance",
+    "Investment",
+    "Misc"
+  ],
+  "data_retention_days": 90
+}

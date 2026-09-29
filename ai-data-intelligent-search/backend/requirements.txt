@@ -1,0 +1,34 @@
+# Backend Dependencies
+
+## Required Dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+python-multipart==0.0.6
+requests==2.31.0
+
+## Search Engine Dependencies
+rapidfuzz==3.9.1
+faiss-cpu==1.7.4
+numpy==1.24.3
+pandas==2.0.3
+tqdm==4.66.1
+
+## Optional: LLM Integration Dependencies
+# For local LLM integration (Ollama, LM Studio, etc.)
+# requests is already included above
+# No additional dependencies needed for rule-based parsing
+
+## Optional: Vector Search Dependencies
+# Uncomment these if you want to enable vector/semantic search:
+# torch>=2.1.0
+# sentence-transformers>=2.2.0,<3.0.0
+# huggingface-hub>=0.16.0,<0.20.0
+
+## Installation Notes
+# To install without vector search (recommended for quick start):
+# pip install -r requirements.txt
+
+# To install with vector search (optional):
+# pip install torch sentence-transformers huggingface-hub
+# Note: PyTorch requires >= 2.1.0 for sentence-transformers compatibility

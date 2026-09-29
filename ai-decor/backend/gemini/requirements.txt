@@ -1,0 +1,27 @@
+# --- Core ---
+fastapi==0.115.0
+uvicorn==0.30.1
+python-dotenv==1.0.1
+
+# --- Logging / Utils ---
+requests==2.32.3
+pillow==10.4.0
+numpy==1.26.4
+
+# --- Deep Learning / Models ---
+torch>=2.2.0
+ultralytics==8.2.52          # For YOLOv8 object detection
+transformers==4.44.2         # For CLIP-ViT model
+sentence-transformers==3.0.1 # For SBERT embeddings
+
+# --- Google Gemini ---
+google-generativeai==0.8.3
+
+# --- TTS (optional local speech) ---
+pyttsx3==2.90
+
+# --- Optional: for handling async uploads, debugging ---
+aiofiles==23.2.1
+
+# --- Optional Visualization / Debugging ---
+matplotlib==3.9.2

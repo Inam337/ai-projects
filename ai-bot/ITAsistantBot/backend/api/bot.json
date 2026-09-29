@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Display not showing or extending in Teams meeting",
+    "problem_statement": "User is in a meeting or conference and the external screen, projector, or extended display is not showing correctly during a Microsoft Teams meeting.",
+    "description": "1) Press Windows + P. 2) Select \"Duplicate\" for the same screen or \"Extend\" for extended display. 3) Unplug and re-plug the HDMI or USB-C cable once. 4) Go to Settings \u2192 System \u2192 Display \u2192 Click \"Detect\". 5) Confirm the screen is visible in Teams.",
+    "action": {
+      "trigger": [
+        "meeting",
+        "conference",
+        "teams meeting",
+        "screen not showing",
+        "display issue",
+        "extended display",
+        "projector",
+        "hdmi"
+      ],
+      "next_step": "Check if the external screen or projector is now visible and correctly displaying in the Teams meeting."
+    }
+  },
+  {
+    "title": "Audio not working in Teams meeting",
+    "problem_statement": "User is unable to hear sound or audio is coming from the wrong device during a Microsoft Teams meeting.",
+    "description": "1) Click the speaker icon in the taskbar. 2) Open Sound settings. 3) Set Output device to \"Jabra\" or \"Polycom\". 4) Open Microsoft Teams \u2192 Settings \u2192 Devices. 5) Select the same speaker and microphone.",
+    "action": {
+      "trigger": [
+        "sound not working",
+        "no audio",
+        "cannot hear",
+        "speaker issue",
+        "audio issue",
+        "jabra",
+        "polycom",
+        "teams sound problem"
+      ],
+      "next_step": "Play a test sound or ask someone in the meeting to confirm audio is working."
+    }
+  },
+  {
+    "title": "Password expired or password not working",
+    "problem_statement": "User is unable to log in because the password has expired or the current password is not working.",
+    "description": "1) Connect to VPN. 2) Open the password reset page: http://172.31.36.138/RDWeb/Pages/en-US/password.aspx 3) Follow the instructions to reset the password. 4) Try logging in again. 5) If the user has forgotten the password or is unable to reset it, contact the IT Admin.",
+    "action": {
+      "trigger": [
+        "password expired",
+        "password not working",
+        "login failed",
+        "incorrect password",
+        "cannot login",
+        "account locked",
+        "forgot password"
+      ],
+      "next_step": "Confirm whether the user was able to reset the password successfully or needs admin assistance."
+    }
+  },
+  {
+    "title": "Laptop is slow or performance issue",
+    "problem_statement": "User reports that the laptop is running slow, freezing, or taking too long to open applications.",
+    "description": "1) Check laptop uptime: Press Ctrl + Shift + Esc \u2192 Task Manager \u2192 Performance \u2192 CPU \u2192 check Uptime. If uptime is more than 3\u20135 days, restart the laptop. 2) Restart the laptop if not already done. 3) Press Ctrl + Shift + Esc to open Task Manager and close unnecessary applications. 4) Go to Task Manager \u2192 Startup tab and disable unnecessary startup programs. 5) Press Windows + R, type %temp%, and delete all temporary files. 6) Open Disk Cleanup and clean system files. 7) Ensure at least 20% free disk space is available. 8) Run Windows Update and install pending updates.",
+    "action": {
+      "trigger": [
+        "laptop slow",
+        "system slow",
+        "computer slow",
+        "performance issue",
+        "windows slow",
+        "pc lagging",
+        "freezing issue",
+        "high uptime"
+      ],
+      "next_step": "Confirm whether system performance improved after checking uptime and completing the cleanup steps."
+    }
+  },
+  {
+    "title": "Outlook email login issue",
+    "problem_statement": "User is unable to log in to Outlook email or Outlook keeps asking for password.",
+    "description": "1) Confirm internet connection is working. 2) Verify username and password by logging in at https://outlook.office.com. 3) If password fails, check if password is expired and reset it. 4) Open Outlook \u2192 File \u2192 Account Settings \u2192 Account Settings \u2192 Repair account. 5) Sign out and sign back into Outlook. 6) Restart the laptop and try again. 7) If issue persists, contact IT Admin.",
+    "action": {
+      "trigger": [
+        "outlook login issue",
+        "outlook password not working",
+        "cannot login outlook",
+        "outlook keeps asking password",
+        "email login issue",
+        "outlook authentication failed",
+        "teams login issue",
+        "teams email login",
+        "teams keeps asking password",
+        "cannot login teams"
+      ],
+      "next_step": "Confirm whether the user is able to access Outlook or Teams successfully after the steps."
+    }
+  },
+  {
+    "title": "Account locked due to failed login attempts",
+    "problem_statement": "User account is temporarily locked due to multiple failed login attempts.",
+    "description": "1) Inform the user that the account is locked for 1 minute due to failed login attempts. 2) Wait for 1 minute. 3) Ensure the correct password is being used. 4) Try logging in again after the lock period. 5) If the account does not unlock after waiting, contact IT Admin.",
+    "action": {
+      "trigger": [
+        "account locked",
+        "user locked",
+        "login blocked",
+        "too many attempts",
+        "locked for 1 minute"
+      ],
+      "next_step": "Confirm whether the user was able to log in successfully after the lock duration."
+    }
+  }
+]
